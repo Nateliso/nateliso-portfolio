@@ -1,0 +1,59 @@
+[
+    {
+      "title": "Nate’s Tech Haven",
+      "description": "A full-stack MERN e-commerce app for buying and renting tech products.",
+      "tech": ["React", "Node.js", "MongoDB", "CSS"],
+      "liveLink": "https://your-deployed-site.com",
+      "repoLink": "https://github.com/Nateliso/nate-tech-haven",
+      "image": "/assets/nates-tech-haven.png"
+    },
+    {
+        "title": "Trivia Game",
+        "description": "A front-end quize game, choose bewtween two genres(science and history) and answer the as many quesions in 30 seconds.",
+        "tech": ["React", "Node.js", "CSS"],
+        "liveLink": "https://nate-trivia.netlify.app",
+        "repoLink": "https://github.com/Nateliso/trivia-game",
+        "image": "src/assets/trivia game.png"
+      },
+      {
+        "title": "Movie Explora",
+        "description": "A search moive app to look up movie titles adds to a watchlist, and view trailers YouTube.",
+        "tech": ["React", "Node.js", "CSS", "APIs"],
+        "liveLink": "https://nate-movie-explorer.netlify.app",
+        "repoLink": "https://github.com/Nateliso/movie-explorer",
+        "image": "src/assets/Movie Explora.png"
+      },
+      {
+        "title": "Expense Tracker",
+        "description": "An expense tracker app, that allows for keeing track on expenses.",
+        "tech": ["React", "Node.js", "CSS"],
+        "liveLink": "https://nate-expenses.netlify.app",
+        "repoLink": "https://github.com/Nateliso/Expense-tracker",
+        "image": "src/assets/expense tracker.png"
+      },
+      {
+        "title": "Expense Tracker landing page",
+        "description": "A landing web page for the expense tracker app.",
+        "tech": ["React", "Node.js", "CSS"],
+        "liveLink": "https://nate-landing.netlify.app",
+        "repoLink": "https://github.com/Nateliso/landing-page",
+        "image": "src/assets/landing page.png"
+      },
+      {
+        "title": "Weather App",
+        "description": "A weather app that tells the currents worthy of a searched location.",
+        "tech": ["React", "Node.js", "CSS", "APIs"],
+        "liveLink": "https://nateweather.netlify.app",
+        "repoLink": "https://github.com/Nateliso/Weather-App",
+        "image": "src/assets/weather app.png"
+      },
+      {
+        "title": "My To-Do List",
+        "description": "An app that allows to keep track of routine activities.",
+        "tech": ["React", "Node.js", "CSS"],
+        "liveLink": "https://nateliso-todo-list.netlify.app",
+        "repoLink": "https://github.com/Nateliso/TodoList",
+        "image": "src/assets/Todo.png"
+      }
+
+]
