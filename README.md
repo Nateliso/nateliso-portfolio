@@ -1,12 +1,37 @@
-# React + Vite
+# Nateliso's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio, a showcase of my skills as a front-end and full-stack developer. Built with React, Vite, Tailwind CSS, and vanilla CSS, this portfolio highlights my projects, certifications, and contact information in a modern, responsive single-page application inspired by platforms like Twitter/X.
 
-Currently, two official plugins are available:
+[Live Demo](https://nateliso-portfolio.netlify.app) | [GitHub Repository](https://github.com/Nateliso/nateliso-portfolio)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Table of Contents
+- [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Setup](#setup)
 
-## Expanding the ESLint configuration
+## About
+This portfolio showcases my development journey, featuring projects like *Nate’s Tech Haven* (a full-stack MERN e-commerce app), FreeCodeCamp certifications, and a contact form powered by EmailJS. It combines responsive design, dark/light mode, and custom styling for a professional, user-friendly experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+- **Responsive Navbar**: Twitter/X-inspired with a profile image left of the name and a slide switch toggle (🌙 for dark mode, ☀️ for light mode).
+- **Project Cards**: Display projects with screenshots, descriptions, tech stacks, and links to live demos (green dot icon) and GitHub repos (GitHub logo), with hover effects.
+- **Certifications**: Lists FreeCodeCamp certifications with verifiable links in a clean layout.
+- **Contact Form**: EmailJS-powered form for direct communication, plus social links (Email, LinkedIn, Twitter/X).
+- **Dark/Light Mode**: Persistent theme toggle with smooth transitions, saved in localStorage.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop using Tailwind CSS and vanilla CSS.
+- **Custom Styling**: Solid backgrounds (navbar/footer) and semi-transparent containers for a cohesive, modern look.
+
+## Tech Stack
+- **Frontend**: React, Vite, Tailwind CSS, vanilla CSS
+- **Services**: EmailJS (contact form), localStorage (theme persistence)
+- **Tools**: Git, GitHub, Netlify (deployment), VS Code
+- **Other**: React Router (navigation), JSON (project data)
+
+## Setup
+To run the portfolio locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Nateliso/nateliso-portfolio.git
+   cd nateliso-portfolio

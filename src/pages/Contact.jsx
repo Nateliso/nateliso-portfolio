@@ -9,10 +9,10 @@ function Contact() {
     e.preventDefault();
     emailjs
       .send(
-        "service_y1yc4r4",
-        "template_2qv980m",
+        `${import.meta.env.VITE_EMAILJS_SERVICE_ID}`,
+        `${import.meta.env.VITE_EMAILJS_TEMPLATE_ID}`,
         formData,
-        "sw4MB1IINcapI4FY0"
+        `${import.meta.env.VITE_EMAILJS_PUBLIC_KEY}`
       )
       .then(
         () => setStatus("Message sent successfully!"),

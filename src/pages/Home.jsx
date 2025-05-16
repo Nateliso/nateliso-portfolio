@@ -21,7 +21,7 @@ function Home() {
             <span className="font-semibold">
               Vanilla CSS & Tailwind
             </span>
-            . Explore my work, including my full-stack e-commerce app, Nate’s Tech
+            . Explore my work, including my full-stack e-commerce app, Tech
             Haven.
           </p>
         </div>
@@ -79,7 +79,7 @@ function Home() {
         </h2>
         <div className="text-center">
           <h3 className="text-2xl font-semibold text-neutral-900 dark:text-neutral-100 text-outline-white dark:text-shadow-none">
-            Nate’s Tech Haven
+            Tech Haven
           </h3>
           <div className="p-container mt-4 max-w-2xl mx-auto">
             <p className="text-lg">
