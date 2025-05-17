@@ -6,7 +6,7 @@ function About() {
     },
     {
       name: "JavaScript Algorithms and Data Structures",
-      url: "https://freecodecamp.org/certification/NateLiso/front-end-development-libraries",
+      url: "https://freecodecamp.org/certification/NateLiso/javascript-algorithms-and-data-structures-v8",
     },
     {
       name: "Front End Development Libraries",
