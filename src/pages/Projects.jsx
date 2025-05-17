@@ -1,5 +1,6 @@
 import ProjectCard from "../components/ProjectCard";
 import projects from "../data/projects.json";
+import { projectImages } from "../data/projectImages";
 
 function Projects() {
   return (
@@ -8,8 +9,16 @@ function Projects() {
         My Projects
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-        {projects.map((project, index) => (
-          <ProjectCard key={index} {...project} />
+        {projects.map((project) => (
+          <ProjectCard
+            key={project.title}
+            title={project.title}
+            description={project.description}
+            tech={project.tech}
+            liveLink={project.liveLink}
+            repoLink={project.repoLink}
+            image={projectImages[project.title]}
+          />
         ))}
       </div>
     </div>

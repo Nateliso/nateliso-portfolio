@@ -4,24 +4,21 @@
       "description": "A full-stack MERN e-commerce application for buying, renting, and returning tech products. Built with React, Node.js, Express, and MongoDB, it offers dynamic product listings, user interaction, and inventory control.",
       "tech": ["React", "Node.js", "MongoDB", "Axios", "JWT", "Atlas","CSS"],
       "liveLink": "https://nate-tech-haven.netlify.app",
-      "repoLink": "https://github.com/Nateliso/nate-tech-haven",
-      "image": "/assets/Tech-Haven.png"
+      "repoLink": "https://github.com/Nateliso/nate-tech-haven"
     },
     {
       "title": "Movie Explorer",
       "description": "A front-end movie search application that allows users to search for movies, add them to a personal watchlist, and view trailers directly via YouTube. Built using React and external APIs.",
       "tech": ["React", "Node.js", "CSS", "APIs"],
       "liveLink": "https://nate-movie-explorer.netlify.app",
-      "repoLink": "https://github.com/Nateliso/movie-explorer",
-      "image": "/assets/Movie-Explora.png"
+      "repoLink": "https://github.com/Nateliso/movie-explorer"
     },
     {
         "title": "Trivia Rush",
         "description": "A responsive front-end quiz game featuring two categories: Science and History. Users answer as many questions as possible within a 30-second timer. Built with React and styled with CSS.",
         "tech": ["React", "Node.js", "CSS"],
         "liveLink": "https://nate-trivia.netlify.app",
-        "repoLink": "https://github.com/Nateliso/trivia-game",
-        "image": "/assets/trivia-game.png"
+        "repoLink": "https://github.com/Nateliso/trivia-game"
       },
      
       {
@@ -29,32 +26,28 @@
         "description": "A simple yet effective app that helps users track and manage their daily expenses. Displays income and expense history, and calculates overall balance.",
         "tech": ["React", "Node.js", "CSS"],
         "liveLink": "https://nate-expenses.netlify.app",
-        "repoLink": "https://github.com/Nateliso/Expense-tracker",
-        "image": "/assets/expense-tracker.png"
+        "repoLink": "https://github.com/Nateliso/Expense-tracker"
       },
       {
         "title": "Expense Tracker landing page",
         "description": "A clean and responsive landing page designed to promote the Expense Tracker app. Highlights features, benefits, and includes call-to-action sections.",
         "tech": ["React", "Node.js", "CSS"],
         "liveLink": "https://nate-landing.netlify.app",
-        "repoLink": "https://github.com/Nateliso/landing-page",
-        "image": "/assets/landing-page.png"
+        "repoLink": "https://github.com/Nateliso/landing-page"
       },
       {
         "title": "Weather App",
         "description": "A weather forecasting app that displays real-time weather data for searched locations, including temperature and conditions. Built using weather APIs and styled with custom CSS.",
         "tech": ["React", "Node.js", "CSS", "APIs"],
         "liveLink": "https://nateweather.netlify.app",
-        "repoLink": "https://github.com/Nateliso/Weather-App",
-        "image": "/assets/weather-app.png"
+        "repoLink": "https://github.com/Nateliso/Weather-App"
       },
       {
         "title": "My To-Do List",
         "description": "A productivity app designed to help users manage daily tasks and routines efficiently. Features task creation, completion toggles, and dynamic task updates.",
         "tech": ["React", "Node.js", "CSS"],
         "liveLink": "https://nateliso-todo-list.netlify.app",
-        "repoLink": "https://github.com/Nateliso/TodoList",
-        "image": "/assets/Todo.png"
+        "repoLink": "https://github.com/Nateliso/TodoList"
       }
 
 ]
