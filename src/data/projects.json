@@ -5,7 +5,7 @@
       "tech": ["React", "Node.js", "MongoDB", "Axios", "JWT", "Atlas","CSS"],
       "liveLink": "https://nate-tech-haven.netlify.app",
       "repoLink": "https://github.com/Nateliso/nate-tech-haven",
-      "image": "src/assets/Tech Haven.png"
+      "image": "/assets/Tech-Haven.png"
     },
     {
       "title": "Movie Explorer",
@@ -13,7 +13,7 @@
       "tech": ["React", "Node.js", "CSS", "APIs"],
       "liveLink": "https://nate-movie-explorer.netlify.app",
       "repoLink": "https://github.com/Nateliso/movie-explorer",
-      "image": "src/assets/Movie Explora.png"
+      "image": "/assets/Movie-Explora.png"
     },
     {
         "title": "Trivia Rush",
@@ -21,7 +21,7 @@
         "tech": ["React", "Node.js", "CSS"],
         "liveLink": "https://nate-trivia.netlify.app",
         "repoLink": "https://github.com/Nateliso/trivia-game",
-        "image": "src/assets/trivia game.png"
+        "image": "/assets/trivia-game.png"
       },
      
       {
@@ -30,7 +30,7 @@
         "tech": ["React", "Node.js", "CSS"],
         "liveLink": "https://nate-expenses.netlify.app",
         "repoLink": "https://github.com/Nateliso/Expense-tracker",
-        "image": "src/assets/expense tracker.png"
+        "image": "/assets/expense-tracker.png"
       },
       {
         "title": "Expense Tracker landing page",
@@ -38,7 +38,7 @@
         "tech": ["React", "Node.js", "CSS"],
         "liveLink": "https://nate-landing.netlify.app",
         "repoLink": "https://github.com/Nateliso/landing-page",
-        "image": "src/assets/landing page.png"
+        "image": "/assets/landing-page.png"
       },
       {
         "title": "Weather App",
@@ -46,7 +46,7 @@
         "tech": ["React", "Node.js", "CSS", "APIs"],
         "liveLink": "https://nateweather.netlify.app",
         "repoLink": "https://github.com/Nateliso/Weather-App",
-        "image": "src/assets/weather app.png"
+        "image": "/assets/weather-app.png"
       },
       {
         "title": "My To-Do List",
@@ -54,7 +54,7 @@
         "tech": ["React", "Node.js", "CSS"],
         "liveLink": "https://nateliso-todo-list.netlify.app",
         "repoLink": "https://github.com/Nateliso/TodoList",
-        "image": "src/assets/Todo.png"
+        "image": "/assets/Todo.png"
       }
 
 ]

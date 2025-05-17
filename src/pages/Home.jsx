@@ -83,8 +83,7 @@ function Home() {
           </h3>
           <div className="p-container mt-4 max-w-2xl mx-auto">
             <p className="text-lg">
-              A full-stack MERN e-commerce app for buying and renting tech products,
-              built with React, Node.js, MongoDB, and vanilla CSS.
+              A full-stack MERN e-commerce application for buying, renting, and returning tech products. Built with React, Node.js, Express, and MongoDB, it offers dynamic product listings, user interaction, and inventory control.
             </p>
           </div>
           <div className="mt-6">
