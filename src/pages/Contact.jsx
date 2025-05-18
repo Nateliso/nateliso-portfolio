@@ -100,7 +100,7 @@ function Contact() {
           </div>
           <div className="space-y-4">
             <a
-              href="https://www.linkedin.com/in/liso-mhlana-23b59a264"
+              href="https://www.linkedin.com/in/liso-mhlana-dev"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center text-blue-600 dark:text-gray-300 hover:underline"

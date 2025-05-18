@@ -13,7 +13,7 @@ function Home() {
         </h1>
         <div className="p-container mt-6 max-w-3xl mx-auto">
           <p className="text-xl sm:text-2xl">
-            A Front-End Developer crafting modern, responsive web apps with{" "}
+            A Full-Stack Developer crafting modern, responsive web apps with{" "}
             <span className="font-semibold">
               React
             </span>{" "}

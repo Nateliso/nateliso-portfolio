@@ -33,7 +33,7 @@ function About() {
       </h2>
       <div className="p-container max-w-3xl mx-auto text-center">
         <p className="text-lg">
-          I’m Liso Mhlana aka Nateliso, a Front-End Developer with a growing full-stack skill set, building modern, responsive web applications with **React** and **Tailwind CSS**. My background includes completing multiple certifications through freeCodeCamp and deploying real-world projects — including a full-stack e-commerce app.
+          I’m Liso Mhlana aka Nateliso, a Full-Stack Web Developer with a growing skill set, building modern, responsive web applications with **React** and **Tailwind CSS**. My background includes completing multiple certifications through freeCodeCamp and deploying real-world projects — including a full-stack e-commerce app.
           I enjoy crafting intuitive user interfaces and solving complex logic with clean, scalable code. Alongside my frontend skills, I’ve worked with **Node.js**, **MongoDB**, and **PostgreSQL** to build dynamic backends and RESTful APIs.
           Beyond the code, I love learning new tools, refining my UI designs, structuring a backend database and collaborating on meaningful projects, I’m always exploring new ways to improve my craft.
         </p>
