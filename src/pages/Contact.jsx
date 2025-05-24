@@ -90,9 +90,6 @@ function Contact() {
         </div>
         {/* Social Links */}
         <div>
-          <h3 className="text-xl font-semibold text-neutral-800 dark:text-neutral-100 mb-4 text-outline-white dark:text-shadow-none">
-            Other Ways to Connect
-          </h3>
           <div className="p-container mb-6">
             <p className="text-lg">
               Prefer another platform? Reach out on LinkedIn, or X:
