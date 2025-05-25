@@ -48,19 +48,29 @@ function Home() {
         </h2>
         <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
           {[
-            "React",
-            "Tailwind CSS",
+            "HTML",
+            "CSS",
             "JavaScript",
+            "Python",
+            "React",
+            "Redux.js",
             "Node.js",
             "Express.js",
             "MongoDB",
-            "HTML",
-            "CSS",
             "Git & GitHub",
-            "Python",
             "PostgreSQL",
             "REST APIs",
+            "CRUD",
+            "JSON Web Token(JWT)",
+            "Postman API",
+            "Linux Command Line",
+            "Tailwind CSS",
+            "Bootstrap",
+            "SASS",
             "Responsive Design",
+            "Web Performance Optimization",
+            "Problem Solving",
+            "Fast learner",
           ].map((skill) => (
             <div
               key={skill}
